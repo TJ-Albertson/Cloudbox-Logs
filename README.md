@@ -1,5 +1,6 @@
 # Website-Documentation
 
+Idea: 
 
 Stack: MERN
 =========================================
@@ -16,3 +17,10 @@ Back: Node, Express, MongoDB
 Process: code -> docker image -> kubernetes deployment (rollout)
 
 modules: passport, express-session, cors, dotenv
+
+
+
+Log (started while learning dev stuff)
+=========================================
+
+1. Discover Kuber
