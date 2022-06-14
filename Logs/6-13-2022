@@ -1,0 +1,23 @@
+-Created MERN stack application using mongoDB guide
+-Successfully routed sample database/collection through stack
+
+MongoDB error checklist:
+-Database Access (account)
+-Network Access (IP add)
+-.env file
+
+bare minimum routing new collection (Databse->Backend->Frontend), or one way of doing it
+============================================================================
+MongoDB:
+-loaded sample dataset (Using mongoDbB Atlas, can only use sample in free version. plan to run own mongoDB in cluster)
+
+Server:
+-app.use new router in main server js file
+-create router js; add routes that point to mongoDB for viewing and editing; +boilerplate router stuff and mongodb objectid
+
+Client(React):
+-create new component and point to serverside router (I copied most of code from other component)
+-In main client js file, add import for new component and add route to component
+
+
+***sidenote: noticed excessive load time for 90MB database size
