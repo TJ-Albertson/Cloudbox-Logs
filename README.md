@@ -1,6 +1,7 @@
 # Cloudbox-Logs
 
-Logs I've kept during the creation of this app. Some logs include video demonstrations.
+Logs I've kept during the creation of this app. Some logs include video demonstrations.  
+There are links to navigate between logs.
 
 will add links to actual code  
 
