@@ -1,5 +1,7 @@
 # Cloudbox-Logs
 
+Logs I've kept during the creation of this app. Some logs include video demonstrations.
+
 will add links to actual code  
 
 ## Logs:
