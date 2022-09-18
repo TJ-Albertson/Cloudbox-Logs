@@ -1,3 +1,5 @@
+[Cloudbox Repository](https://github.com/TJ-Albertson/Cloudbox) | [Cloudbox-API Repository](https://github.com/TJ-Albertson/Cloudbox-API)
+
 # Cloudbox-Logs
 
 Logs I've kept during the creation of this app. Some logs include video demonstrations.  
