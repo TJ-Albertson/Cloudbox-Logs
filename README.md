@@ -5,8 +5,6 @@
 Logs I've kept during the creation of this app. Some logs include video demonstrations.  
 There are links to navigate between logs.
 
-will add links to actual code  
-
 ## Logs:
 [6-10-2022](Logs/6-10-2022.md)  
 [6-13-2022](Logs/6-13-2022.md)  
